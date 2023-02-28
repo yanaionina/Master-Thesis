@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="concept:name" value="case_40" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<string key="variable_a" value="erjf90s0aomi4" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity C" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity G" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity F" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity E" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity D" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_3" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<string key="variable_a" value="erjf90s0aomi4" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity C" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity F" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity E" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity G" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="pe7pevvlbuaig" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="8hjn9g5gdb32n" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_10" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity H" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity K" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity J" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity I" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_19" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity L" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity M" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_38" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity L" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity M" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="34c0olltqd5oc" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_2" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity L" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity P" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity M" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_26" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity H" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity K" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity J" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity I" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity W" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_37" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="1970-01-01T00:00:00+00:00" />
+			<string key="variable_a" value="erjf90s0aomi4" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity C" />
+			<date key="time:timestamp" value="1970-01-01T01:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity F" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="vg2p81j64r21d" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity E" />
+			<date key="time:timestamp" value="1970-01-01T02:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity D" />
+			<date key="time:timestamp" value="1970-01-01T03:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="1970-01-01T04:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="1970-01-01T05:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity S" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="1970-01-01T06:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity R" />
+			<date key="time:timestamp" value="1970-01-01T07:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="1970-01-01T08:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="9qqdv20mmu53j" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="1970-01-01T09:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="1970-01-01T10:00:00+00:00" />
+			<float key="variable_a" value="nan" />
+		</event>
+	</trace>
+</log>

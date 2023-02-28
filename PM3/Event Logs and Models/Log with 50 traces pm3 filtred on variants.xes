@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  XES version 1849.2016 (IEEE 1849-2016)  -->
+<!--  Created by Fluxicon Disco (fluxicon.com/disco)  -->
+<!--  (c) 2023 by Fluxicon BV, Bomanshof 259, 5611 NS Eindhoven, The Netherlands  -->
+<log xes.version="1849.2016" xmlns="http://www.xes-standard.org" xes.creator="Fluxicon Disco">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext"/>
+	<global scope="trace">
+		<string key="concept:name" value="name"/>
+		<string key="variant" value="string"/>
+		<int key="variant-index" value="0"/>
+	</global>
+	<global scope="event">
+		<string key="concept:name" value="name"/>
+		<string key="lifecycle:transition" value="transition"/>
+		<date key="time:timestamp" value="2023-01-24T12:01:50.741+01:00"/>
+	</global>
+	<classifier name="Activity" keys="concept:name"/>
+	<string key="lifecycle:model" value="standard"/>
+	<string key="creator" value="Fluxicon Disco"/>
+	<string key="library" value="Fluxicon Octane"/>
+	<trace>
+		<string key="concept:name" value="case_29"/>
+		<string key="variant" value="Variant 1"/>
+		<int key="variant-index" value="1"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T01:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity A"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T02:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity H"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity J"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity K"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T04:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity I"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T05:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity B"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T06:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity Q"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity S"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity T"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T08:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity R"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T09:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity U"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity X"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity W"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T11:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity V"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_6"/>
+		<string key="variant" value="Variant 2"/>
+		<int key="variant-index" value="2"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T02:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity H"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T02:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity A"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity K"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity J"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T04:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity I"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T05:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity B"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T06:00:00.000+01:00"/>
+			<string key="concept:name" value="adblh3tqf0m74"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity S"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity T"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T08:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity R"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T09:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity U"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity X"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity W"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T11:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity V"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_40"/>
+		<string key="variant" value="Variant 3"/>
+		<int key="variant-index" value="3"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T01:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity A"/>
+			<string key="variable_a" value="erjf90s0aomi4"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T02:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity C"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity G"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity F"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity E"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T04:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity D"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T05:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity B"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T06:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity Q"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity T"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity S"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T08:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity R"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T09:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity U"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity X"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity W"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T11:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity V"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_42"/>
+		<string key="variant" value="Variant 4"/>
+		<int key="variant-index" value="4"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T01:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity A"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T02:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity H"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity K"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity J"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T04:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity I"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T05:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity B"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T06:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity Q"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity S"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity T"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T08:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity R"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T09:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity U"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity W"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity X"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T11:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity V"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="case_3"/>
+		<string key="variant" value="Variant 5"/>
+		<int key="variant-index" value="5"/>
+		<string key="creator" value="Fluxicon Disco"/>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T01:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity A"/>
+			<string key="variable_a" value="erjf90s0aomi4"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T02:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity C"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity F"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity E"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T03:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity G"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T04:00:00.000+01:00"/>
+			<string key="concept:name" value="pe7pevvlbuaig"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T05:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity B"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T06:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity Q"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity T"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T07:00:00.000+01:00"/>
+			<string key="concept:name" value="8hjn9g5gdb32n"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T08:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity R"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T09:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity U"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity W"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T10:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity X"/>
+		</event>
+		<event>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T11:00:00.000+01:00"/>
+			<string key="concept:name" value="Activity V"/>
+		</event>
+	</trace>
+</log>
